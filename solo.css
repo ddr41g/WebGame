@@ -1,0 +1,16 @@
+body {
+    background-color: #212120;
+}
+
+h1 {
+    color: #c2b956;
+}
+
+p {
+    color: #bc856f;
+}
+
+canvas {
+    width: 100%;
+    background-color: #afafaf;
+}
